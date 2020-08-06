@@ -1,9 +1,10 @@
-
-
 # IoT-App-Dev-6.1.1
+
 Problem 1. RGB Led color code app ( VIBGYOR) with Password protection
 
 Video Link of App Working: https://www.youtube.com/watch?v=bFeVjghEc7w
+
+[STATUS: COMPLETED]
 
 Part of the training and internship of "Introduction to AI and IoT 2020" course organised by IIT Kanpur
 
